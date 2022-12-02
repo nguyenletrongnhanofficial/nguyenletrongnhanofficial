@@ -26,7 +26,7 @@
 
 
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nguyenletrongnhanofficial&&theme=xcode)](https://github.com/nguyenletrongnhanofficial)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=trongnhanofficial&&theme=xcode)](https://github.com/nguyenletrongnhanofficial)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyenletrongnhanofficial&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nguyenletrongnhanofficial" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenletrongnhanofficial&show_icons=true&locale=en&theme=tokyonight" alt="nguyenletrongnhanofficial" /></p>
